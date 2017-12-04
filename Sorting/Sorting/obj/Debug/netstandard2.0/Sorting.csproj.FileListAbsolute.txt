@@ -1,0 +1,17 @@
+\\Mac\Home\Documents\Git\DataStructures\Sorting\Sorting\bin\Debug\netstandard2.0\Sorting.deps.json
+\\Mac\Home\Documents\Git\DataStructures\Sorting\Sorting\bin\Debug\netstandard2.0\Sorting.dll
+\\Mac\Home\Documents\Git\DataStructures\Sorting\Sorting\bin\Debug\netstandard2.0\Sorting.pdb
+\\Mac\Home\Documents\Git\DataStructures\Sorting\Sorting\obj\Debug\netstandard2.0\Sorting.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Git\DataStructures\Sorting\Sorting\obj\Debug\netstandard2.0\Sorting.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Git\DataStructures\Sorting\Sorting\obj\Debug\netstandard2.0\Sorting.AssemblyInfo.cs
+\\Mac\Home\Documents\Git\DataStructures\Sorting\Sorting\obj\Debug\netstandard2.0\Sorting.dll
+\\Mac\Home\Documents\Git\DataStructures\Sorting\Sorting\obj\Debug\netstandard2.0\Sorting.pdb
+\\Mac\Home\Documents\Git\SortingAlgorithms\Sorting\Sorting\bin\Debug\netstandard2.0\Sorting.deps.json
+\\Mac\Home\Documents\Git\SortingAlgorithms\Sorting\Sorting\bin\Debug\netstandard2.0\Sorting.dll
+\\Mac\Home\Documents\Git\SortingAlgorithms\Sorting\Sorting\bin\Debug\netstandard2.0\Sorting.pdb
+\\Mac\Home\Documents\Git\SortingAlgorithms\Sorting\Sorting\obj\Debug\netstandard2.0\Sorting.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Git\SortingAlgorithms\Sorting\Sorting\obj\Debug\netstandard2.0\Sorting.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Git\SortingAlgorithms\Sorting\Sorting\obj\Debug\netstandard2.0\Sorting.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Git\SortingAlgorithms\Sorting\Sorting\obj\Debug\netstandard2.0\Sorting.AssemblyInfo.cs
+\\Mac\Home\Documents\Git\SortingAlgorithms\Sorting\Sorting\obj\Debug\netstandard2.0\Sorting.dll
+\\Mac\Home\Documents\Git\SortingAlgorithms\Sorting\Sorting\obj\Debug\netstandard2.0\Sorting.pdb
